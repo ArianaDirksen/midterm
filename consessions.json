@@ -1,0 +1,74 @@
+{
+    "food": [
+        {
+            "name" : "Popcorn",
+            "small": "$3.25",
+            "medium": "$4.25",
+            "large": "$5.00",
+            "img": "./images/popcorn.jpg"
+        },
+        {
+            "name" : "Pretzel Bites",
+            "small": "$3",
+            "medium": "$4",
+            "large": "$5",
+            "img": "./images/pretzelBites.jpg"
+        },
+        {
+            "name" : "Nachos",
+            "small": "$4",
+            "medium": "$5",
+            "large": "$6",
+            "img": "./images/nachos.jpg"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Fountain Drinks",
+            "small": "$3",
+            "medium": "$4",
+            "large": "$5",
+            "img": "./images/fountain.jpg"
+        },
+        {
+            "name" : "Slushies",
+            "small": "$3.25",
+            "medium": "$4.50",
+            "large": "$6",
+            "img": "./images/slushie.jpg"
+        },
+        {
+            "name" : "Liquor/Alcohol",
+            "small": "$5.00",
+            "medium": "$6.50",
+            "large": "$7",
+            "img": "./images/alcohol.jpg"
+        }
+
+    ],
+    "treats":[
+        {
+            "name" : "Candy bars",
+            "small_price": "$4",
+            "large_price": "$5",
+            "flavors": ["3 Musketeers", "KitKat", "Crunch", "MilkyWay", "Hershey's"],
+
+            "img": "./images/bars.jpg"
+        },
+        {
+            "name" : "Candy bags",
+            "small_price": "$4.50",
+            "large_price": "$5.75",
+            "flavors":["Swedish Fish","Sour Patch Kids","Skittles","M&Ms","SweeTarts"],
+            "img": "./images/bags.jpg"
+        },
+        {
+            "name" : "Gelato",
+            "small_price": "$4.25",
+            "large_price": "$5.50",
+            "flavors":["Chocolate","Vanilla","Coffee","Strawberry","Cookies & Creme"],
+            "img": "./images/gelato.jpg"
+        }
+    ]
+
+}

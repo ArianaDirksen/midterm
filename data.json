@@ -1,0 +1,201 @@
+{
+    "showing" : [
+        {
+            "showtimes": {
+                "Sunday": ["10:30am","1:00pm","4:15pm","8:30pm","11:05pm"],
+                "Monday": ["9:00am","11:15am","4:00pm","7:15pm","10:20pm"],                
+                "Tuesday": ["9:00am","11:15am","4:00pm","7:15pm","10:20pm"],
+                "Wednesday": ["9:30am","12:50pm","4:00pm","7:15pm","10:20pm"],
+                "Thursday": ["9:30am","12:50pm","4:00pm","7:15pm","10:20pm"],
+                "Friday": ["9:45am","11:15am","1:00pm","4:15pm","8:30pm","10:20pm","11:05pm"],
+                "Saturday": ["9:45am","11:15am","1:00pm","4:15pm","8:30pm","11:05pm"]
+            },
+            "title": "The Godfather",
+            "rating": "R",
+            "runtime": "2h 55m",
+            "genre": ["Crime","Drama"],
+            "year": 1972,
+            "description": "The story begins as 'Don' Vito Corleone, the head of a New York Mafia 'family', oversees his daughter's wedding with his wife Carmela. His beloved son Michael has just come home from the war, but does not intend to become part of his father's business. Through Michael's life the nature of the family business becomes clear. The business of the family is just like the head of the family, kind and benevolent to those who give respect, but given to ruthless violence whenever anything stands against the good of the family. Don Vito lives his life in the way of the old country, but times are changing and some don't want to follow the old ways and look out for community and 'family'. An up and coming rival of the Corleone family wants to start selling drugs in New York, and needs the Don's influence to further his plan. The clash of the Don's fading old world values and the new ways will demand a terrible price, especially from Michael, all for the sake of the family.",
+            "image": "./images/The_Godfather.jpg",
+            "img1":"./images/Godfather_img1.jpg",
+            "caption1":"Al Pacino(left) as Michael Corleone with Marlon Brando(right) as Vito Corleone",
+            "img2":"./images/Becoming_Godfather.jpg",
+            "caption2":"Michael becoming the Godfather",
+            "trailer": "./trailers/The_Godfather.mp4"
+        },
+        {
+            "showtimes": {
+                "Sunday": ["9:45am","12:50pm","2:45pm","5:40pm","8:35pm", "10:00pm"],
+                "Monday": ["10:45am","12:50pm","3:10pm","6:30pm","8:55pm"],                
+                "Tuesday": ["10:45am","12:50pm","3:10pm","6:30pm","8:55pm"],
+                "Wednesday": ["9:45am","12:50pm","2:45pm","5:40pm","8:35pm", "10:00pm"],
+                "Thursday": ["9:45am","12:50pm","2:45pm","5:40pm","8:35pm", "9:30pm"],
+                "Friday": ["9:45am","12:50pm","2:45pm","3:10pm","5:40pm","8:35pm", "10:00pm"],
+                "Saturday": ["9:45am","12:50pm","2:45pm","3:10pm","5:40pm","8:35pm", "10:00pm"]
+            },
+            "title": "Inception",
+            "rating": "PG-13",
+            "runtime": "2h 28m",
+            "genre": ["Action","Adventure","Sci-Fi"],
+            "year": 2010,
+            "description": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming.",
+            "image": "./images/Inception.jpg",
+            "img1":"./images/Inception_img1.jpg",
+            "caption1":"Tom Hardy(left) as Eames with Joseph Gordon-Levitt(right) as Arthur",
+            "img2":"./images/Inception_img2.jpg",
+            "caption2":"Leonardo DiCaprio as Cobb",
+            "trailer": "./trailers/Inception.mp4"
+        },
+        {
+            "showtimes": {
+                "Sunday": ["9:50am","10:30am","11:15am","1:40pm","3:10pm","5:30pm","8:00pm"],
+                "Monday": ["9:00am","11:15am","12:50pm","2:25pm","4:00pm","7:00pm","10:20pm"],                
+                "Tuesday": ["9:00am","11:15am","12:50pm","2:25pm","4:00pm","7:00pm","10:20pm"],
+                "Wednesday": ["9:00am","11:15am","12:50pm","2:25pm","4:00pm","7:00pm","10:20pm"],
+                "Thursday": ["9:00am","11:15am","12:50pm","3:10pm","6:25pm","8:00pm", "10:20pm"],
+                "Friday": ["9:00am","10:30am","11:15am","1:40pm","3:10pm","5:30pm","8:00pm","11:05pm"],
+                "Saturday": ["9:50am","10:30am","11:15am","1:40pm","3:10pm","5:30pm","8:00pm","11:05pm"]
+            },
+            "title": "Batman: The Long Halloween Part One",
+            "rating": "PG-13",
+            "runtime": "1h 25m",
+            "genre": ["Animation","Action","Crime"],
+            "year": 2021,
+            "description": "It's a dark time in Gotham City. Held hostage by the powerful Falcone crime family, the city is rife with crime and corruption. Adding to the chaos is the mysterious Holiday killer, who has been targeting the underworld and leaving a trail of terror and body bags. Batman, Lieutenant Gordon and D.A. Harvey Dent race against the calendar as it advances toward the next ill-fated holiday. Based on the critically acclaimed graphic novel, Batman: The Long Halloween, Part One begins a twisted chain of events that will forever change the Dark Knight.",
+            "image": "./images/Batman.jpg",
+            "img1":"./images/Batman_img1.jpg",
+            "caption1":"Batman with D.A. Harvey Dent",
+            "img2":"./images/Batman_img2.jpg",
+            "caption2":"Batman and Lieutenant Gordon interrogating Calendar Man",
+            "trailer": "./trailers/Batman.mp4"
+        },
+        {
+            "showtimes": {
+                "Sunday": ["9:20am","11:00am","12:00pm","1:35pm","2:35pm","4:10pm","5:10pm","6:45pm","7:45pm","9:20pm"],
+                "Monday": ["9:50am","11:00am","12:20pm","1:35pm","4:10pm","5:15pm","6:45pm","9:20pm"],                
+                "Tuesday": ["9:35am","11:00am","12:10pm","1:40pm","3:00pm","4:15pm","6:45pm","9:20pm"],
+                "Wednesday": ["9:35am","11:00am","12:10pm","1:40pm","3:00pm","4:15pm","6:45pm","9:20pm"],
+                "Thursday": ["9:35am","11:00am","12:10pm","1:40pm","4:15pm","6:45pm","9:20pm"],
+                "Friday": ["9:20am","10:40am","1:25pm","4:00pm","6:45pm","10:30pm"],
+                "Saturday": ["9:20am","10:40am","1:25pm","4:00pm","6:45pm","10:30pm"]
+            },
+            "title": "Burnt",
+            "rating": "R",
+            "runtime": "1h 41m",
+            "genre": ["Comedy", "Drama"],
+            "year": 2015,
+            "description": "Chef Adam Jones had it all - and lost it. A two-star Michelin rockstar with the bad habits to match, the former enfant terrible of the Paris restaurant scene did everything different every time out, and only ever cared about the thrill of creating explosions of taste. To land his own kitchen and that third elusive Michelin star though, he'll need the best of the best on his side, including the beautiful Helene",
+            "image": "./images/Burnt.jpg",
+            "img1":"./images/MainB.jpg",
+            "caption1":"Adam with main love interest",
+            "img2":"./images/chefB.jpg",
+            "caption2":"Chef Adam leaning on counter top in kitchen",
+            "trailer": "./trailers/Burnt.mp4"
+        },
+        {
+            "showtimes": {
+                "Sunday": ["10:15am","12:25pm","2:25pm","4:30pm","6:30pm","8:30pm","10:30pm"],
+                "Monday": ["10:15am","12:25pm","2:25pm","4:30pm","6:30pm","8:30pm","10:30pm"],                
+                "Tuesday": ["10:15am","12:25pm","2:25pm","4:30pm","6:30pm","8:30pm","10:30pm"],
+                "Wednesday": ["10:15am","12:25pm","2:25pm","4:30pm","6:30pm","8:30pm","10:30pm"],
+                "Thursday": ["10:15am","12:25pm","2:25pm","4:30pm","6:30pm","8:30pm","10:30pm"],
+                "Friday": ["10:10am","12:25pm","4:45pm","8:55pm","10:55pm"],
+                "Saturday": ["10:10am","12:25pm","4:45pm","8:55pm","10:55pm"]
+            },
+            "title": "The Conjuring",
+            "rating": "R",
+            "runtime": "1h 52m",
+            "genre": ["Horror", "Mystery", "Thriller"],
+            "year": 2013,
+            "description": "In 1971, Carolyn and Roger Perron move their family into a dilapidated Rhode Island farm house and soon strange things start happening around it with escalating nightmarish terror. In desperation, Carolyn contacts the noted paranormal investigators, Ed and Lorraine Warren, to examine the house. What the Warrens discover is a whole area steeped in a satanic haunting that is now targeting the Perron family wherever they go. To stop this evil, the Warrens will have to call upon all their skills and spiritual strength to defeat this spectral menace at its source that threatens to destroy everyone involved.",
+            "image": "./images/TheConjuring.jpg",
+            "img1":"./images/boxTC.jpg",
+            "caption1":"Lorraine looking at haunted toy",
+            "img2":"./images/matchTC.jpg",
+            "caption2":"Carolyn holding a match in dark space",
+            "trailer": "./trailers/Conjuring.mp4"
+        },
+        {
+            "showtimes": {
+                "Sunday": ["10:00am","11:30am","12:30pm","2:00pm","3:00pm","5:35pm","8:10pm","9:45pm","10:45pm"],
+                "Monday": ["10:00am","11:30am","12:30pm","2:00pm","3:00pm","5:35pm","8:10pm","9:45pm","10:45pm"],                
+                "Tuesday": ["9:00am","11:30am","2:00pm","4:35pm","7:10pm","9:45pm"],
+                "Wednesday": ["9:00am","11:30am","2:00pm","4:35pm","7:10pm","9:45pm"],
+                "Thursday": ["9:00am","11:30am","2:00pm","4:35pm","7:10pm","9:45pm"],
+                "Friday": ["10:00am","12:30pm","3:00pm","5:35pm","8:10pm","10:45pm"],
+                "Saturday": ["10:00am","12:30pm","3:00pm","5:35pm","8:10pm","10:45pm"]
+            },
+            "title": "Wonka",
+            "rating": "PG",
+            "runtime": "1h 56m",
+            "genre": ["Adventure","Comedy","Family"],
+            "year": 2023,
+            "description": "Willy Wonka is the mastermind behind some of the most delicious and innovative chocolate creations the world has ever seen. But before shaking up the chocolate industry and making a name for himself as a confectionery genius, the ambitious young creator had to defy all odds. As a result, Willy transformed his wildest dreams into reality with a bold vision, determination, and unexpected help from new friends. After all, hard work and a dash of magic can make anything happen. Because, as Willy already knows, it only takes a dream to make a difference.",
+            "image": "./images/Wonka.jpg",
+            "img1":"./images/WonkaDance.jpg",
+            "caption1":"Wonka dancing",
+            "img2":"./images/WonkaC.jpg",
+            "caption2":"Wonka talking to others",
+            "trailer": "./trailers/Wonka.mp4"
+        }
+    ],
+
+    "comingSoon" : [
+        {
+            "releaseDate": "May 3rd",
+            "title": "The Fall Guy",
+            "rating": "PG-13",
+            "runtime": "1h 54m",
+            "genre": ["Action","Comedy","Drama"],
+            "description": "Colt Seavers is a stuntman who left the business a year earlier to focus on both his physical and mental health. He's drafted back into service when the star of a mega-budget studio movie, which is being directed by his ex, goes missing.",
+            "image": "./images/The_Fall_Guy.jpg",
+            "img1":"./images/Fall_img1.jpg",
+            "caption1":"Ryan Gosling as Colt Seavers",
+            "img2":"./images/Fall_img2.jpg",
+            "caption2":"Ryan Gosling(left) as Colt Seavers with Emily Blunt(right) as Jody Moreno",
+            "trailer": "./trailers/The_Fall_Guy.mp4"
+        },
+        {
+            "releaseDate": "June 14th",
+            "title": "Inside Out 2",
+            "rating": "PG",
+            "runtime": "N/A",
+            "genre": ["Animation","Adventure","Comedy"],
+            "description": "Inside Out 2 returns to the mind of newly minted teenager Riley just as headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who've long been running a successful operation by all accounts, aren't sure how to feel when Anxiety shows up. And it looks like she's not alone.",
+            "image": "./images/InsideOut2.jpg",
+            "img1":"./images/RileyIO2.jpg",
+            "caption1":"Riley playing hockey",
+            "img2":"./images/Anxietyio2.jpg",
+            "caption2":"New emotions enter Riley's mind",
+            "trailer": "./trailers/Inside_Out.mp4"
+        },
+        {
+            "releaseDate": "March 22nd",
+            "title": "Spaceman",
+            "rating": "R",
+            "runtime": "1h 47m",
+            "genre": ["Adventure","Drama","Sci-Fi"],
+            "description": "An intergalactic odyssey of love, ambition, and self-discovery. Orphaned as a boy, raised in the Czech countryside by his doting grandparents, Jakub Procházka has risen from small-time scientist to become the country's first astronaut. When a dangerous solo mission to Venus offers him both the chance at heroism he's dreamt of, and a way to atone for his father's sins as a Communist informer, he ventures boldly into the vast unknown. But in so doing, he leaves behind his devoted wife, Lenka, whose love, he realizes too late, he has sacrificed on the altar of his ambitions. Alone in Deep Space, Jakub discovers a possibly imaginary giant alien spider, who becomes his unlikely companion. Over philosophical conversations about the nature of love, life and death, and the deliciousness of bacon, the pair form an intense and emotional bond. Will it be enough to see Jakub through a clash with secret Russian rivals and return him safely to Earth for a second chance with Lenka?",
+            "image": "./images/Spaceman.jpg",
+            "img1":"./images/AdamSM.jpg",
+            "caption1":"Jakub exploring",
+            "img2":"./images/Spaceman-Spider.jpg",
+            "caption2":"Spider from the movie, things are not like it seems",
+            "trailer": "./trailers/Spaceman.mp4"
+        },
+        {
+            "releaseDate": "December 19th",
+            "title": "Lord of the Rings: The Fellowship of the Ring",
+            "rating": "PG-13",
+            "runtime": "2h 58m",
+            "genre": ["Action","Adventure","Drama"],
+            "description": "An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign.",
+            "image": "./images/Lord_of_the_Rings.jpg",
+            "img1":"./images/LOTR_img1.jpg",
+            "caption1":"Elijah Wood as Frodo Baggins",
+            "img2":"./images/LOTR_img2.jpg",
+            "caption2":"Sean Astin as Samwise Gamgee",
+            "trailer": "./trailers/LOTR.mp4"
+        }
+    ]
+}
